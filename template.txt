@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<equipment-list>
+    <ring>
+        <name>Superior Gollux Ring</name>
+        <img>superiorgolluxring.png</img>
+        <sf>11</sf>
+        <sf-max>25</sf-max>
+        <rarity>Epic</rarity>
+        <orange>Untradeable, Unique Equipped Item</orange>
+        <requirements>
+            <lev>150</lev>
+            <str>0</str>
+            <dex>0</dex>
+            <int>0</int>
+            <luk>0</luk>
+            <beginner>true</beginner>
+            <warrior>true</warrior>
+            <magician>true</magician>
+            <bowman>true</bowman>
+            <thief>true</thief>
+            <pirate>true</pirate>
+        </requirements>
+        <type>RING</type>
+        <base-stats>
+
+        </base-stats>
+        <flame-stats>
+
+        </flame-stats>
+        <sf-stats>
+        </sf-stats>
+        <potential>
+        </potential>
+    </ring>
+</equipment-list>
